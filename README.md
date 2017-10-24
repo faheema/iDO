@@ -1,6 +1,9 @@
 # iDO
 Android TODO app
-
+Demo :
+1.LoaderManager.LoaderCallbacks<Cursor> 
+2.Content Provider
+ 
 ## Screens:
 [![Watch the video](https://github.com/faheema/iDO/blob/master/img/screens.mp4)](https://github.com/faheema/iDO/blob/master/img/screens.mp4)
 ![screen1][1]
